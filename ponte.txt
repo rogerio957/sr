@@ -1,0 +1,14 @@
+
+
+#EXTM3U
+#EXTINF:-1.Live Webcam Vila Nova de Gaia, Porto, Portugal
+https://frn.rtsp.me/vJlWpFM3tmkjhuispL0WAQ/1626812324/hls/bYTDANDA.m3u8
+#EXTINF:-1.Live Portugal
+https://frn.rtsp.me/-wcxm__e7vgDUGLWUTs8-A/1626812460/hls/bYTDANDA.m3u8
+#EXTINF:-1.Vila Nova de Gaia, Porto, Portugal
+https://frn.rtsp.me/hVrGojb-nU8xPOjvctN19g/1626812753/hls/bYTDANDA.m3u8
+
+
+
+
+
